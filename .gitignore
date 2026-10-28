@@ -1,0 +1,10 @@
+.build/
+build/
+.DS_Store
+.swiftpm/
+
+# Local agent notes and configuration
+docs/superpowers/
+.superpowers/
+.agents/
+.codex/
